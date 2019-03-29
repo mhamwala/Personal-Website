@@ -1,5 +1,5 @@
 .custom-toggler.navbar-toggler {
-    border-color: rgb(220,220,220);
+    border-color: rgb(0, 0, 0);
 }
 .custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(50,50,50, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
@@ -7,7 +7,7 @@
 
 body .scrollN, body .scrollN:hover {
     font-size: 1em;
-    color: white;
+    color: rgb(0, 0, 0);
     font-family: 'Gravity-Regular';
 }
 
@@ -43,7 +43,7 @@ body .scrollN, body .scrollN:hover {
         transition: height .5s, line-height .5s;
     }
     .scrolled-nav {
-        background-color: white;
+        background-color: rgb(255, 255, 255);
         height: 60px !important;
         line-height: 60px;
     }
@@ -51,7 +51,7 @@ body .scrollN, body .scrollN:hover {
       width: 20px;
       height: 20px;
       background: black;
-      color: #fff;
+      color: rgb(0, 0, 0);
       position: fixed;
       top: 120px;
       right: 0;

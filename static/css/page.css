@@ -28,7 +28,7 @@ body, html {
 
 .homeDiv {
     font-family: "Gravity-Book";
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .homeMainTitle {
@@ -95,7 +95,7 @@ body, html {
 }
 
 .whiteText {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .tileDesc {
@@ -172,7 +172,7 @@ body, html {
 }
 
 .softwareTitle {
-    color: #b5b5b5;
+    color: #000000;
 }
 
 .electronicsBack {
